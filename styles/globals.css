@@ -1,0 +1,12 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: "#4F4D4D";
+  height: 100%;
+}
+.MuiTabs-scrollButtons.Mui-disabled {
+  opacity: 0.3;
+}
